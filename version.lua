@@ -1,3 +1,3 @@
 return {
-    aStaffMode = "1.0.0"
+    aStaffMode = "1.0.1"
 }
